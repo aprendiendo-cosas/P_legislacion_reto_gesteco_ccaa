@@ -6,7 +6,7 @@
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 > + **Duración**: Unas 2 horas.
 
-![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/main/imagenes/portada.png)
+![portada](https://raw.githubusercontent.com/aprendiendo-cosas/P_legislacion_reto_gesteco_ccaa/refs/tags/2024_2025/imagenes/portada.png)
 
 
 
